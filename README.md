@@ -1,6 +1,6 @@
 🎥 For the video explanation and detailed code walkthrough of this project, click here to view the video: https://drive.google.com/file/d/1cMfvbwzCubMiKjbHkzApgba4HKRa99dv/view?usp=sharing
 
-# VectorShift Pipeline Builder
+# Visual Pipeline Builder
 
 A React + FastAPI pipeline editor demonstrating reusable node abstractions, dynamic node behavior, graph-based pipeline validation, and frontend/backend integration.
 
